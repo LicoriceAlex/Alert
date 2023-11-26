@@ -1,0 +1,30 @@
+# Ren'Py
+.rpyc
+.rpyb
+.rws
+*.saves
+
+# Compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+# Linux
+*~
+
+# Ren'Py project logs
+_log.txt
+
+# Ren'Py project backups
+*_backup.rpa
+
+# Virtual environment
+venv/
