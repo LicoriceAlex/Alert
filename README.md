@@ -1,4 +1,4 @@
-![cover](readme_images/cover.png.png)
+![cover](readme_images/cover.png)
 
 # <p align="center">Alert</p>
 
