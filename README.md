@@ -10,7 +10,7 @@
 ## Как начать
 
 1. **Скачайте последний релиз:**
-   - Скачайте игру ![Скачать игру](https://github.com/LicoriceAlex/Alert/releases/tag/latest)
+   - [Скачайте игру](https://github.com/LicoriceAlex/Alert/releases/tag/latest)
    - Распакуйте архив.
 
 2. **Запустите новеллу:**
