@@ -23,7 +23,7 @@ define gui.show_name = True
 
 ## Версия игры.
 
-define config.version = "1.0"
+# define config.version = "3.0"
 
 
 ## Текст, помещённый в экран "Об игре". Поместите текст между тройными скобками.
@@ -154,7 +154,7 @@ define config.save_directory = "Alert-1699887847"
 
 define config.window_icon = "gui/icon_change.png"
 
-
+define build.change_icon_i686 = True
 ## Настройка Дистрибутива ######################################################
 ##
 ## Эта секция контролирует, как Ren'Py строит дистрибутивные файлы из вашего
