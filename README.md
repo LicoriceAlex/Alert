@@ -1,5 +1,5 @@
 ![cover](readme_image.png)
-[![Скачать последний релиз](https://github.com/LicoriceAlex/Alert/blob/main/download_button.png)](https://github.com/LicoriceAlex/Alert/releases/tag/latest)
+[![Скачать последний релиз](https://github.com/LicoriceAlex/Alert/blob/main/download.png)](https://github.com/LicoriceAlex/Alert/releases/tag/latest)
 <p align="center">
   <a href="https://github.com/LicoriceAlex/Alert/blob/main/download_button.png">
     <img src="https://github.com/LicoriceAlex/Alert/blob/main/download_button.png" alt="Кнопка скачивания">
