@@ -10,7 +10,7 @@
 ![screen_1](readme_images/screen_1.png)
 ![screen_2](readme_images/screen_2.png)
 ![screen_3](readme_images/screen_3.png)
-## Как начать
+## Как начать играть
 
 1. **Скачайте последний релиз:**
    - [Скачайте игру](https://github.com/LicoriceAlex/Alert/releases/tag/latest)
